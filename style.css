@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'f';
+    src: url(./LINESeedSansTH_W_Rg.woff2);
+}
+body{
+    font-family: 'f';
+}
+.nc{
+    width: 50px;
+    height: auto;
+}
+.head{
+    background-color: #F9A74A;
+
+}
+.cp{
+    width: 299px;
+    height: 181;
+}
+.half{
+    background-color: #FD9D2F;
+    padding: 10px;
+}
+.du{
+    background-color: #533800;
+    width: 206px;
+    height: 37px;
+}
+.flex-shrink-1{
+    padding-left: 8%;
+}
+.do{
+    text-decoration: none;
+    background-color: #533800;
+    display: block;
+}
